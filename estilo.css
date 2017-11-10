@@ -155,22 +155,22 @@ nav.navbar-inverse {
 
 
 
-.portfolio{
+#portfolio{
     background: #424141;
     color: #fff;
 }
 
-.portfolio a {
+#portfolio a {
     display: block;
     overflow: hidden;
     margin-bottom: 1.5rem; }
 
-.portfolio img {
+#portfolio img {
    -webkit-transition: all .3s ease;
           transition: all .3s ease;
     min-width: 100%; }
 
-.portfolio a:hover img {
+#portfolio a:hover img {
    -webkit-transform: scale(1.5);
       -ms-transform: scale(1.5);
           transform: scale(1.5); }
