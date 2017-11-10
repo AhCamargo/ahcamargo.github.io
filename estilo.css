@@ -277,3 +277,19 @@ body{
   
 }
 }
+
+@media (min-width: 1200px) {
+ html {
+    font-size: 25px; 
+}
+
+#barra-navegacao{
+  clear: inherit;
+}
+
+.Bemvindo{
+  background: url('./imagens/slides/1.jpg');
+  background-size: cover;
+  
+}
+}
