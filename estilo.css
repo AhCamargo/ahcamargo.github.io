@@ -106,6 +106,10 @@ nav.navbar-inverse {
   font-size: 4em;
  }
 
+.texto-capa{
+  padding-top: 2em;
+}
+
  .btn-custom{
 	color: white;
 	border-radius: 500px;
