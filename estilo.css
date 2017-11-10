@@ -185,6 +185,11 @@ nav.navbar-inverse {
     color: white;
     text-decoration: none;
 }
+
+footer p {
+  font-size: 12px;
+}
+
 p{
 	font-size: 1.3rem;
 }
@@ -243,7 +248,7 @@ p{
 }
 
 #rodape a{
-  padding-top: 3rem;
+  padding-top: 1rem;
 }
 
 
